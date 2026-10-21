@@ -1,0 +1,61 @@
+{
+  "model_max_absolute_error": 0.0,
+  "all_daily_targets_exact": true,
+  "causal_checks": [
+    {
+      "cutoff": "2023-01-01",
+      "test": "prefix",
+      "passed": true
+    },
+    {
+      "cutoff": "2023-01-01",
+      "test": "future_mutation",
+      "passed": true
+    },
+    {
+      "cutoff": "2024-01-01",
+      "test": "prefix",
+      "passed": true
+    },
+    {
+      "cutoff": "2024-01-01",
+      "test": "future_mutation",
+      "passed": true
+    },
+    {
+      "cutoff": "2025-01-01",
+      "test": "prefix",
+      "passed": true
+    },
+    {
+      "cutoff": "2025-01-01",
+      "test": "future_mutation",
+      "passed": true
+    },
+    {
+      "cutoff": "2026-01-01",
+      "test": "prefix",
+      "passed": true
+    },
+    {
+      "cutoff": "2026-01-01",
+      "test": "future_mutation",
+      "passed": true
+    },
+    {
+      "cutoff": "2026-10-01",
+      "test": "prefix",
+      "passed": true
+    },
+    {
+      "cutoff": "2026-10-01",
+      "test": "future_mutation",
+      "passed": true
+    }
+  ],
+  "computes_after_seed": true,
+  "restart_state_equal": true,
+  "callback_lag_checks": 10,
+  "tamper_rejected_before_writes": true,
+  "package_sha256": "b81b9ca1fa73f9359b4ecf652fee19c67da41a4b6799c1507e40a03767fc92da"
+}

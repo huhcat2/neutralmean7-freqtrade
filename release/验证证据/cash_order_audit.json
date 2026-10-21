@@ -1,0 +1,107 @@
+[
+  {
+    "stage": "base_20230101",
+    "orders": 50,
+    "min_cash": 50.2726080686989,
+    "terminal_error": 3.5652192309498787e-09,
+    "quotes_passed": true
+  },
+  {
+    "stage": "base_20230701",
+    "orders": 45,
+    "min_cash": 45.47248797539942,
+    "terminal_error": 1.4453689800575376e-08,
+    "quotes_passed": true
+  },
+  {
+    "stage": "base_20240101",
+    "orders": 41,
+    "min_cash": 47.89115881494945,
+    "terminal_error": 7.60337570682168e-10,
+    "quotes_passed": true
+  },
+  {
+    "stage": "base_20240701",
+    "orders": 32,
+    "min_cash": 47.688659646899396,
+    "terminal_error": -4.452886059880257e-09,
+    "quotes_passed": true
+  },
+  {
+    "stage": "base_20250101",
+    "orders": 27,
+    "min_cash": 44.460591446499166,
+    "terminal_error": 5.400579539127648e-09,
+    "quotes_passed": true
+  },
+  {
+    "stage": "base_20250701",
+    "orders": 21,
+    "min_cash": 42.11007802329914,
+    "terminal_error": -2.701199264265597e-09,
+    "quotes_passed": true
+  },
+  {
+    "stage": "base_20260101",
+    "orders": 10,
+    "min_cash": 46.22548528824518,
+    "terminal_error": 8.945789886638522e-09,
+    "quotes_passed": true
+  },
+  {
+    "stage": "stress_20230101",
+    "orders": 50,
+    "min_cash": 50.262911629301016,
+    "terminal_error": -8.60018189996481e-09,
+    "quotes_passed": true
+  },
+  {
+    "stage": "stress_20230701",
+    "orders": 45,
+    "min_cash": 45.2557424284023,
+    "terminal_error": -6.7484506871551275e-09,
+    "quotes_passed": true
+  },
+  {
+    "stage": "stress_20240101",
+    "orders": 41,
+    "min_cash": 47.135645323302015,
+    "terminal_error": 1.8728314898908138e-08,
+    "quotes_passed": true
+  },
+  {
+    "stage": "stress_20240701",
+    "orders": 32,
+    "min_cash": 47.49089401460151,
+    "terminal_error": -2.8812792152166367e-09,
+    "quotes_passed": true
+  },
+  {
+    "stage": "stress_20250101",
+    "orders": 27,
+    "min_cash": 44.41387125160145,
+    "terminal_error": 6.41375663690269e-09,
+    "quotes_passed": true
+  },
+  {
+    "stage": "stress_20250701",
+    "orders": 21,
+    "min_cash": 40.67218963130654,
+    "terminal_error": 6.075424607843161e-10,
+    "quotes_passed": true
+  },
+  {
+    "stage": "stress_20260101",
+    "orders": 10,
+    "min_cash": 45.911095865405514,
+    "terminal_error": -5.948095349594951e-10,
+    "quotes_passed": true
+  },
+  {
+    "stage": "base_20240801_detail",
+    "orders": 5,
+    "min_cash": 47.06761044740051,
+    "terminal_error": -3.6980054574087262e-09,
+    "quotes_passed": true
+  }
+]

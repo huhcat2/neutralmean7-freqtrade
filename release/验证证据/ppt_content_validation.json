@@ -1,0 +1,11 @@
+{
+  "slides": 29,
+  "chart_images_verified": 10,
+  "all_14_main_curve_comparisons_embedded": true,
+  "extra_negative_detail_month_embedded": true,
+  "template_placeholder_check_passed": true,
+  "native_powerpoint_open_render_pdf_passed": true,
+  "text_overflow_flags": 0,
+  "package_sha256": "b81b9ca1fa73f9359b4ecf652fee19c67da41a4b6799c1507e40a03767fc92da",
+  "engine_parity_cases": 15
+}
